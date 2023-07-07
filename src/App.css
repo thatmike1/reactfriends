@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "colorfont";
+  font-style: normal;
+  font-weight: 500;
+  src: local("colorfont"), url("BigParty4Blue-2575.woff") format("woff");
+}
+
+h1 {
+  font-family: "colorfont", sans-serif;
+  font-size: 6rem;
+  line-height: 6.5rem;
+  padding: 20px;
+  margin: 10px;
+}
