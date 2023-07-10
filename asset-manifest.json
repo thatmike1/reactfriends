@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/thatmike1/reactfriends/static/css/main.b6e27e30.css",
+    "main.js": "/thatmike1/reactfriends/static/js/main.d7287cda.js",
+    "static/js/496.badfd334.chunk.js": "/thatmike1/reactfriends/static/js/496.badfd334.chunk.js",
+    "static/media/BigParty4Blue-2575.woff": "/thatmike1/reactfriends/static/media/BigParty4Blue-2575.0abcb1783b7b98ffb509.woff",
+    "index.html": "/thatmike1/reactfriends/index.html",
+    "main.b6e27e30.css.map": "/thatmike1/reactfriends/static/css/main.b6e27e30.css.map",
+    "main.d7287cda.js.map": "/thatmike1/reactfriends/static/js/main.d7287cda.js.map",
+    "496.badfd334.chunk.js.map": "/thatmike1/reactfriends/static/js/496.badfd334.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6e27e30.css",
+    "static/js/main.d7287cda.js"
+  ]
+}
